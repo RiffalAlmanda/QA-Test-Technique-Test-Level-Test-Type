@@ -1,0 +1,83 @@
+Test Activites
+
+poin belajar
+-Test Activites and Task
+-Testware
+-Fungsional & Non Fungsional
+-Static and Dynamic Tes
+-Test Pyramid
+
+5 Fundamental Test Activites & Task
+-Planning memverifikasi misi pengujian.control memantau memeriksa kemajuan,dan mengambil tindakan
+-analisi pengujian dan desain pengujian adalah tujuan pengujian untuk membuat kondisis uji dan desain uji.
+-implementasi: aktivitas dimana prosedur atau skrip pengujian diatur,lingnkungan disiapkaan,dan pengujian dijalankan.
+-evaluasi: aktivitas dimana pelaksanaan uji dinilai berdasarkan tujuan yang ditentukan
+-closure: terjadi pada tonggak proyek seperti rilis,penyelesaian pembatalan,atau rilis pemeilaharaan telah selesai
+
+Test Planning (1)
+-menentukan cakupan, tujuan, dan risiko pengujian
+-menentukan pendekatan pengujian secara keseluruhan
+-mengintegrasikan dan mengkoordinasikan aktivitas pengujian ke dalam siklus hidup perangkat lunak
+-mengambil keputusan tentang apa yang akan di uji, orang dan sumber daya laiin yang dperlukan untuk melaksanakan berbagai
+aktivitas pengujian,dan bagaimana aktivitas pengujian akan dilaksanakan.
+
+Test Planning (2)
+-penjadwalan aktivitas analisi,deain,implementasi,eksekusi,dan evaluasi pengujian,baik pada tanggal tertentu (misalnya,dalam pengembangan sekuensial) atau dalam konteks
+setiap iterasi (misalnya,dalam pengembangan secara iteratif)
+-memilih metrik untuk pemantauan dan pengendalian pengujian
+-anggaran untuk aktivitas pengujian
+-menentukan tingkat rincian dan struktur unutk dokumentasi pengujian (misalnya, denagan menyediakan templat atau dokumen contoh)
+
+Test Analyis
+-fokus pada apa yang akan di uji
+-mengnalisis dasar pengujian yang sesuai dengan tingkat pengujian yang sedang dipertimbangkan
+-mengevaluasi daar penguijan dan item pengujian untuk mengidentifikasi bug dari berbagai jenis
+-mengindentifikasi fitur dan set fitur yang akan di uji
+-mendefinisikan dan memberi prioritas pada kondisi pengujian untuk setiap fitur berdasarkan analisi dasar pengujian,dan mempertimbangkan 
+karakteristik fungsional,non-fungsional,dan struktural,faktor bisnis dan teknis lainya,serta tingkat risiko.
+
+Test Monitoring anda control
+-menghasilkan laporan perbandingan kemajuan aktual terhadap kemajua yang direncanakan
+-kontrol pengujian melibatkan pengambilan tindakan yang diperlukan untuk mencapai tujuan rencana pengujian.
+-menentukan dan menetapkan kriteria keluar.
+
+Test Desaing
+-fokus ke "bagaimana cara menguji?"
+-merancang dan memberikan prioritas pada kasus uji dan rangkaian kasus uji
+-mengindentifikasi data uji yang diperlukan untuk mendukung kondisi uji dan kasus uji
+-merancang ligkungan uji dan mengidentifikasi infrastruktur dan alat yang diperlukan
+-mencatat jejak dua arah antara uji,kondisi uji,dan kasus uji
+
+Test Implementation (1)
+-"apakah sekarang semua sudah tersedia unutk menjalankan pengujian>"
+mengembangkan dan memberi prioritas pada prosedur pengujian,dan mungkin membuat skrip pengujian otomatis
+-membuat rangkaian penguijan dari prosedur penguian da (jika ada) skrip pengujian otomatis
+-menyusun rangkaian pengujijan dalam jadwal pelaksanaan pegujian dengan cara menghasilkan eksekusi pengujian yang efisien.
+
+Test Implementation (2)
+-membangun lingkungan uji (termasuk,jika perlu,jangkar uji,virtualisasi layanan,simulator,dengan item infrastruktur lainya) dan memastikan bahwa semua yang diperlukan telah diatur dengan benar
+-menyiapkan data uji dan memastikan bahwa data tersebut dimuat dengan benar di lingkungan uji
+-memverifikasi dan memperbarui jejak dua arah antara dassar pengujian,konidi pengujian,kasus pengujian,prosedur pengujian,dan rangkaian pengujian.
+
+Test Execution (1) 
+-menyimpan ID dan versi dari item pengujian atau objek pengujian,alat pengujian,dan perangkat pengujian
+-menjalankan pengujian baik secara manual maupun dengan menggunakan alat eksekusi pengujian
+-membandingkan hasil aktual dengan hasil yang diharapkan.
+menganalisis anomali unutk menetapkan kemungkinan penyebabnya (misalnya,kegagalan mungkin terjadi karena cacat dalam kode, tetapi juga mungkin terjadi positif palsu)
+
+Test Execution (2)
+-melaporkan cacat berdasarkan kegagalan yang diamati
+-mencatat hasil dari eksekusi pengujian (misalnya,lulus,gagal,diblokir)
+-mengulangi aktivitas pengujian baik sebagai hasil tindakan yang di ambil untuk suatu anomali,atau sebagai bagian dari pengujian yang direncanakan(misalnya,eksekusi pengujian yang diperbaiki,pengujian konfirmasi,dan/atau penguian regresi)
+-memverifikasi dan memperbarui keterlacakan dua arah antara dasar pengujian,kondisi penguian,kasus pengujian,prosedur pengujian,dan hasil pengujian.
+
+Test Completion (1)
+-memeriksa apakah semua laporan cacat sudah ditutup, memasukan permintaan perubahan atau item backlog produk untuk cacat yang masih belum teratasi pada akhir pelaksanaan pengujian
+-membuat laporan ringkasan pengujian unutk dikomunasikan kepada para pemangku kepentingan 
+-menyelesaikan dan mengarsipkan lingkungan uji,data uji,infrastruktur uji,dan perangkat uji lainya unutk penggunaan ulang di masa mendatang
+
+Test Completion (2)
+-Menyerahkan perangkat uji kepada tim pemeliharaan,tim proyek lain,dan/peamngku kepentingan lain dapat mendapatkan manfaat dari penggunanya.
+-menganalisis pelajaran yang dipetik dari aktivitas pengujian yang telah selesai unutk menentukan perubahan yang dibutuhkan untuk iterasi,rilis dan proyek di masa depan
+-menggunakan informasi yang diperoleh unutk meningkatkan kematangan proses pengujian
+
