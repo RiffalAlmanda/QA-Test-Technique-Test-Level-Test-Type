@@ -1,0 +1,15 @@
+Testware
+-Test planning: test plan, jadwal test, list resiko, enrty dan exit criteria. daftar risiko merupakan
+daftar risiko beserta kemungkinan risiko,dampak risiko, dan informasi mitigasi risiko
+-Test monitoring dan control: report progress test, dokumentasi 
+arahan pengendalian dan informasi risiko
+-Test analysis: (prioritas) test conditions, dan report defect 
+mengenai defect pada pengujian(jika tidak diperbaiki secara langsung)
+
+-Test design: (prioritas) test cases,coverage items, test data requiements
+ and test environment requiements
+- Test implementation: test procedures, script automation, test suites,test data,jadwal
+ eksekusi test,dan test environment elements
+-Test execution: test logs,dan report defect
+-Test completion: hasil test report,item tindakan untuk perbaikan proyek atau iterasi berikutinya,lessons learned
+dokumentasi,dan change request(other product backlog items)
