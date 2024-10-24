@@ -1,0 +1,40 @@
+Tipe Testing
+
+Software Testing
+-Static Testing
+*testing dilakukan tanpa menjalankan program
+*static testing memeriksa kode dan dokumentasi
+*static testing mencegah bugs
+*static testing melibatkan checklist dan proses
+*dapat dilakukan sebelum kompilasi kode
+*biaya rendah untuk menemukan dan memperbaiki bug
+*tingkat pengembalian investasi (ROI) tinggi karena ini terlihat pada tahap awal pengembangan
+*memerlukan banyak pertemuan
+
+Dynamic Testing
+*testing dilakukan mengeksekusi program
+*pengujian dinamis melaporkan bug dan bottleneck perangkat lunak
+*pengujian dinamais menemukan dan memperbaiki bug
+*pengujian dinamis melibatkan kasus uji khusus unutk dieksekusi
+*pengujian dinamis dilakukan setelah kompilasi
+*biaya tinggi untuk menemukan dan memperbaiki bug
+*tingkat pengembalian investasi (ROI) rendah karena proses ini berjalan pada tahap paska pengembangan
+*membutuhkan significantly fewer pertemuan
+
+level of testing
+
+Unit testing
+*dimana unit individu dari software diuji
+*tujuan: memvalidasi bahwa setiap unit software berfungsi seerti yang dirancang
+
+Integration Testing
+*dimana unit individu digabungkan dan diuji sebagai sebuah kelompok
+*tujuan:mengekpos kesalahan dalam interaksi antara unit terintegrasi
+
+System Testing
+*dimana sistem yang lengkap dan terintegrasi diuji
+*tujuan:mengevalulasi kepatuhan sistem dengan persyaratan yang ditentukan
+
+Acceptance Testing
+*dimana suatu sistem diuji untuk penerimaan
+*tujuan:mengvelauasi kepatuhan sistem dengan persyaratan bisnis dan emnilai apakah itu dapat diterima unutk pengiriman.
