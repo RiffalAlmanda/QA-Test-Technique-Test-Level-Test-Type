@@ -1,0 +1,37 @@
+Task
+-membuat & memvalidasi test cases
+-menyiapkan test environment
+-eksekusi test
+-validasi kestabilan versi
+-mencatat defect
+-memperbarui test assets
+-monitor dan control test
+-menentukan kecukupan testing
+-melaporkan progress test
+-release
+
+Task - Prepare Test Environment
+-menyiapkan hardware
+-menyiapkan operating sytem dan konfigurasi
+-menyiapkan tes data (saat dibutuhkan)
+-install aplikasi
+-mendapatkan stable version terakhir
+-install blockers defect jika ditemukan
+
+Task - Execute Test
+-tester dijelaskaan oleh tet lead terkait prioritas dan strategi test
+-eksekusi test case
+-recek defect fixed oleh develloper
+-test fitur baru/change request
+-eksekusi acceptance test cases(jika ada)
+-melakukan berbagai macam test(functional testing,specifications-based testing,scenario tessting,expolatory testing)
+-melakukan regression testing
+-mencatat defect
+
+Task Log Defect
+-mencatat semua fdefect pada effect tracking system
+-mencatat requiement atau desaign defect yang ditemukan saat testing.
+-identifikasi defect severity dan phase origin dari defect.
+-mencari untuk duplicates.
+-mencatat steps to reproduce(alur terjadinya defect).pastikan step yang dibuat dapat dibaca kembali
+untuk membuat defect terjadi kembali.
