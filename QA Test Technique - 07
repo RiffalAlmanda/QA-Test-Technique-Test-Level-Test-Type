@@ -1,0 +1,11 @@
+Testing Pyramid
+-Manual & Exploratory Tests
+-UI & API Testing
+-Integration Testing
+-Component Testing
+-Unit Testing
+contoh penguijian
+-pengujian endpoint API user=integration/API Test
+-pengujian login di iphone15=E2E Test/Compatibility Test
+-pengujian fungsi logaritma=Unit test
+-pengujian gambar logo yang tidak buram=UI Test
